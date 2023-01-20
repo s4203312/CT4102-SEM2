@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SEM2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.cpp.obj"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.cpp.obj"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.init.gen.cpp.obj"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.gen.cpp.obj"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Default.rc2.res"
+/OUT:"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2.lib"
+/INCLUDE:IMPLEMENT_MODULE_SEM2
