@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "ObjectPool.h""
+#include "ObjectPool.h"
 
 // Sets default values for this component's properties
 UObjectPool::UObjectPool()
@@ -31,7 +31,7 @@ void UObjectPool::BeginPlay()
 					//Setting actor be active, giving a index, binding the delegate to this object and adding it to the object pool
 					PoolableEnemy->SetActive(false);
 					PoolableEnemy->SetPoolIndex(i);
-					PoolableEnemy->OnPooledObjectDespawn.AddDynamic(this, &UObjectPool::OnPooledObjectDespawn);
+					PoolableEnemy->OnPooledEnemyDespawn.AddDynamic(this, &UObjectPool::OnPooledEnemyDespawn);
 					ObjectPool.Add(PoolableEnemy);
 				}
 			}
@@ -84,7 +84,7 @@ AEnemy* UObjectPool::SpawnPooledObject()
 }
 
 //Assigned to the delegate
-void UObjectPool::OnPooledObjectDespawn(AEnemy* EnemyActor)
+void UObjectPool::OnPooledEnemyDespawn(AEnemy* EnemyActor)
 {
 	//Removes actor from the array
 	SpawnedObjectIndexes.Remove(EnemyActor-> GetPoolIndex());

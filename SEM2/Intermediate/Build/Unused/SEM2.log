@@ -1,12 +1,15 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\s4203312\Documents\GitHub\CT4102-SEM2).
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+  Parsing headers for SEM2Editor
+    Running UnrealHeaderTool "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\SEM2.uproject" "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\SEM2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\alec\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  Reflection code generated for SEM2Editor in 4.4531856 seconds
   Building SEM2Editor...
-  Using Visual Studio 2019 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326) and Windows 10.0.20348.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 20 processes...
-    [1/4] First_Attempt.cpp
-    [2/4] UE4Editor-SEM2.lib
-       Creating library C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2.lib and object C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2.exp
-    [3/4] UE4Editor-SEM2.dll
-       Creating library C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2.suppressed.lib and object C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2.suppressed.exp
-    [4/4] SEM2Editor.target
-  Total time in Parallel executor: 1.62 seconds
-  Total execution time: 2.25 seconds
+  Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 7 actions with 8 processes...
+    [1/7] ObjectPool.cpp
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\ObjectPool.cpp(34): error C2039: 'OnPooledEnemyDespawn': is not a member of 'AEnemy'
+    C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\ObjectPool.generated.h(11): note: see declaration of 'AEnemy'
+    [2/7] Enemy.cpp
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Enemy.cpp(37): error C2065: 'OnPooledEnemyDespawn': undeclared identifier
+    [3/7] SEM2.init.gen.cpp
+    [4/7] ObjectPool.gen.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" SEM2Editor Win64 Development -Project="C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\SEM2.uproject" -WaitMutex -FromMsBuild" exited with code 6.

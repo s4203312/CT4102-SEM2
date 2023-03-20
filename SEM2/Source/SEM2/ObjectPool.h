@@ -33,7 +33,7 @@ public:
 
 	//Function that is linked to the delegate
 	UFUNCTION()
-		void OnPooledObjectDespawn(AEnemy * EnemyActor);
+		void OnPooledEnemyDespawn(AEnemy * EnemyActor);
 
 protected:
 	// Called when the game starts

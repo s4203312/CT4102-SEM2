@@ -4,12 +4,8 @@
 
 #include "Enemy.generated.h"
 
-#include "Delegates/Delegate.h" 
-#include "CoreMinimal.h" 
-#include "GameFramework/Actor.h"
-
 //Creates delegate that take one parameter
-DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnPooledObjectDespawn, AEnemy*, EnemyActor);
+DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FOnPooledEnemyDespawn, AEnemy*, EnemyActor);
 
 UCLASS()
 class SEM2_API AEnemy : public AActor
@@ -21,7 +17,7 @@ public:
 	AEnemy();
 
 	//Created the variable for the delegate
-	FOnPooledObjectDespawn OnPooledObjectDespawn;
+	FOnPooledEnemyDespawn OnPooledEnemyDespawn;
 
 	//Function that can be called in the blueprints for deactivating the object
 	UFUNCTION(BlueprintCallable, Category = "Pooled Enemy")

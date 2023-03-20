@@ -8,15 +8,26 @@
 #include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
+class AEnemy;
 #ifdef SEM2_ObjectPool_generated_h
 #error "ObjectPool.generated.h already included, missing '#pragma once' in ObjectPool.h"
 #endif
 #define SEM2_ObjectPool_generated_h
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_SPARSE_DATA
-#define SEM2_Source_SEM2_ObjectPool_h_13_RPC_WRAPPERS
-#define SEM2_Source_SEM2_ObjectPool_h_13_RPC_WRAPPERS_NO_PURE_DECLS
-#define SEM2_Source_SEM2_ObjectPool_h_13_INCLASS_NO_PURE_DECLS \
+#define SEM2_Source_SEM2_ObjectPool_h_12_SPARSE_DATA
+#define SEM2_Source_SEM2_ObjectPool_h_12_RPC_WRAPPERS \
+ \
+	DECLARE_FUNCTION(execOnPooledEnemyDespawn); \
+	DECLARE_FUNCTION(execSpawnPooledObject);
+
+
+#define SEM2_Source_SEM2_ObjectPool_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+ \
+	DECLARE_FUNCTION(execOnPooledEnemyDespawn); \
+	DECLARE_FUNCTION(execSpawnPooledObject);
+
+
+#define SEM2_Source_SEM2_ObjectPool_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUObjectPool(); \
 	friend struct Z_Construct_UClass_UObjectPool_Statics; \
@@ -25,7 +36,7 @@ public: \
 	DECLARE_SERIALIZER(UObjectPool)
 
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_INCLASS \
+#define SEM2_Source_SEM2_ObjectPool_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesUObjectPool(); \
 	friend struct Z_Construct_UClass_UObjectPool_Statics; \
@@ -34,7 +45,7 @@ public: \
 	DECLARE_SERIALIZER(UObjectPool)
 
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_STANDARD_CONSTRUCTORS \
+#define SEM2_Source_SEM2_ObjectPool_h_12_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UObjectPool(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(UObjectPool) \
@@ -47,7 +58,7 @@ private: \
 public:
 
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_ENHANCED_CONSTRUCTORS \
+#define SEM2_Source_SEM2_ObjectPool_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API UObjectPool(UObjectPool&&); \
@@ -58,28 +69,28 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(UObjectPool); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(UObjectPool)
 
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_PRIVATE_PROPERTY_OFFSET
-#define SEM2_Source_SEM2_ObjectPool_h_10_PROLOG
-#define SEM2_Source_SEM2_ObjectPool_h_13_GENERATED_BODY_LEGACY \
+#define SEM2_Source_SEM2_ObjectPool_h_12_PRIVATE_PROPERTY_OFFSET
+#define SEM2_Source_SEM2_ObjectPool_h_9_PROLOG
+#define SEM2_Source_SEM2_ObjectPool_h_12_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SEM2_Source_SEM2_ObjectPool_h_13_PRIVATE_PROPERTY_OFFSET \
-	SEM2_Source_SEM2_ObjectPool_h_13_SPARSE_DATA \
-	SEM2_Source_SEM2_ObjectPool_h_13_RPC_WRAPPERS \
-	SEM2_Source_SEM2_ObjectPool_h_13_INCLASS \
-	SEM2_Source_SEM2_ObjectPool_h_13_STANDARD_CONSTRUCTORS \
+	SEM2_Source_SEM2_ObjectPool_h_12_PRIVATE_PROPERTY_OFFSET \
+	SEM2_Source_SEM2_ObjectPool_h_12_SPARSE_DATA \
+	SEM2_Source_SEM2_ObjectPool_h_12_RPC_WRAPPERS \
+	SEM2_Source_SEM2_ObjectPool_h_12_INCLASS \
+	SEM2_Source_SEM2_ObjectPool_h_12_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define SEM2_Source_SEM2_ObjectPool_h_13_GENERATED_BODY \
+#define SEM2_Source_SEM2_ObjectPool_h_12_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	SEM2_Source_SEM2_ObjectPool_h_13_PRIVATE_PROPERTY_OFFSET \
-	SEM2_Source_SEM2_ObjectPool_h_13_SPARSE_DATA \
-	SEM2_Source_SEM2_ObjectPool_h_13_RPC_WRAPPERS_NO_PURE_DECLS \
-	SEM2_Source_SEM2_ObjectPool_h_13_INCLASS_NO_PURE_DECLS \
-	SEM2_Source_SEM2_ObjectPool_h_13_ENHANCED_CONSTRUCTORS \
+	SEM2_Source_SEM2_ObjectPool_h_12_PRIVATE_PROPERTY_OFFSET \
+	SEM2_Source_SEM2_ObjectPool_h_12_SPARSE_DATA \
+	SEM2_Source_SEM2_ObjectPool_h_12_RPC_WRAPPERS_NO_PURE_DECLS \
+	SEM2_Source_SEM2_ObjectPool_h_12_INCLASS_NO_PURE_DECLS \
+	SEM2_Source_SEM2_ObjectPool_h_12_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 

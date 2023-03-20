@@ -34,7 +34,7 @@ void AEnemy::Deactivate()
 	SetActive(false);
 	//Clearing all timers and calling the despawn delegate for this object
 	GetWorldTimerManager().ClearAllTimersForObject(this);
-	OnEnemyObjectDespawn.Broadcast(this);
+	OnPooledEnemyDespawn.Broadcast(this);
 }
 
 //Function for finding what Active is
