@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include <string>
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "MyAI.generated.h"
@@ -16,16 +17,24 @@ public:
 	AMyAI();
 
 	//Functions
-	void SetState(int state);
+	void SetState(string state);
+
+	void WalkState();
+	void RunState();
+	void ChaseState();
+	void StopState();
+
 
 	//Creating mesh for enemy 
 	UStaticMeshComponent* Mesh;
+
+	FVector CurrentLocation;
 
 protected:
 	virtual void BeginPlay() override;
 
 	//Variables for use in the functions above
-	int AIState;
+	string AIState;
 
 public:
 	virtual void Tick(float DeltaTime) override;
