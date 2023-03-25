@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SEM2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{8CFE03A9-5715-46D5-A2D5-13C5AF5D6E0F}</UniqueIdentifier>
+      <UniqueIdentifier>{B1771A9D-0E2D-4C3F-84E0-4E6F4AC14200}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SEM2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{3B5AE5EE-C9AB-423E-AC63-B2296157C09A}</UniqueIdentifier>
+      <UniqueIdentifier>{F280CC5B-5BEC-496A-87C1-CFEDAED72397}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,18 +27,12 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SEM2">
-      <UniqueIdentifier>{3A9B1AEB-23CE-4EA9-843E-A0348FA4FC80}</UniqueIdentifier>
+      <UniqueIdentifier>{110FED46-C478-4E6E-8D88-F4172F051510}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SEM2\First_Attempt.cpp">
       <Filter>Source\SEM2</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SEM2\First_Attempt.h">
-      <Filter>Source\SEM2</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\SEM2\MyAI.cpp">
-      <Filter>Source\SEM2</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SEM2\MyAI.h">
       <Filter>Source\SEM2</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\SEM2\MyEnemy.cpp">
@@ -51,12 +45,6 @@
       <Filter>Source\SEM2</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\SEM2\MyObjectPool.h">
-      <Filter>Source\SEM2</Filter>
-    </ClInclude>
-    <ClCompile Include="..\..\Source\SEM2\MyStateMachine.cpp">
-      <Filter>Source\SEM2</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\SEM2\MyStateMachine.h">
       <Filter>Source\SEM2</Filter>
     </ClInclude>
     <None Include="..\..\Source\SEM2\SEM2.Build.cs">
