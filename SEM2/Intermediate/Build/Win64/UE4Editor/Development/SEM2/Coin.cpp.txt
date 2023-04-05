@@ -1,0 +1,3 @@
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\Coin.generated.h
