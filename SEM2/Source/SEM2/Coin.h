@@ -2,6 +2,8 @@
 
 #pragma once
 
+#include "Components/BoxComponent.h"
+
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
 #include "Coin.generated.h"
@@ -15,35 +17,47 @@ public:
 	// Sets default values for this actor's properties
 	ACoin();
 	
-	virtual class UWorld* GetWorld() const { return World; };
+	UPROPERTY()
+	USceneComponent* Root;
 
-	UPROPERTY(Transient)
-		class UWorld* World;
-
-	//The text for using the item. Etc (Equip, Eat)
-	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-		FText UseActionText;
-
-	//The mesh to display for this item
-	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-		class UStaticMesh* MeshImage;
-	
+	UPROPERTY(EditAnywhere)
 	UStaticMeshComponent* Mesh;
 
-	//The thumbnail for this item
-	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Item")
-		class UTexture2D* Thumbnail;
+	UPROPERTY(EditAnywhere)
+	class UBoxComponent* Collider;
 
-	//The display name for this item in the inventory
-	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-		FText ItemDisplayName;
+	UFUNCTION(BlueprintCallable)
+	void OnComponentOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult);
+	
+	
+	
+	//virtual class UWorld* GetWorld() const { return World; };
 
-	//An optional description for the item
-	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item", meta = (MultiLine = true))
-		FText ItemDescription;
+	//UPROPERTY(Transient)
+	//	class UWorld* World;
 
-	//The inventory that owns this item
-	class UInventoryComponent* OwningInventory;
+	////The text for using the item. Etc (Equip, Eat)
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
+	//	FText UseActionText;
+
+	////The mesh to display for this item
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
+	//	class UStaticMesh* MeshImage;
+
+	////The thumbnail for this item
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Item")
+	//	class UTexture2D* Thumbnail;
+
+	////The display name for this item in the inventory
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
+	//	FText ItemDisplayName;
+
+	////An optional description for the item
+	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item", meta = (MultiLine = true))
+	//	FText ItemDescription;
+
+	////The inventory that owns this item
+	//class UInventoryComponent* OwningInventory;
 
 protected:
 	// Called when the game starts or when spawned
