@@ -2,7 +2,7 @@
 
 
 #include "InventoryComponent.h"
-#include "Item.h"
+#include "Coin.h"
 
 // Sets default values for this component's properties
 UInventoryComponent::UInventoryComponent()
@@ -10,21 +10,33 @@ UInventoryComponent::UInventoryComponent()
 	Capacity = 20;
 }
 
-bool UInventoryComponent::AddItem(class UItem* Item)
+bool UInventoryComponent::AddItem(class ACoin* Coin) 
 {
-	if (Items.Num() >= Capacity || !Item) {
-		return false;
+	if (Coins.Num() >= Capacity || !Coin) {
+				return false;
 	}
-
-	Item->OwningInventory = this;
-	Item->World = GetWorld();
-	Items.Add(Item);
-
-	//Update UI
-	OnInventoryUpdated.Broadcast();
-
+	
+	Coins.Add(Coin);
 	return true;
 }
+
+
+
+//bool UInventoryComponent::AddItem(class UItem* Item)
+//{
+//	if (Items.Num() >= Capacity || !Item) {
+//		return false;
+//	}
+//
+//	Item->OwningInventory = this;
+//	Item->World = GetWorld();
+//	Items.Add(Item);
+//
+//	//Update UI
+//	OnInventoryUpdated.Broadcast();
+//
+//	return true;
+//}
 
 
 

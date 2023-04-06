@@ -4,6 +4,7 @@
 #include "Coin.h"
 
 #include "Components/StaticMeshComponent.h"
+#include "InventoryComponent.h"
 
 // Sets default values
 ACoin::ACoin()
@@ -32,14 +33,31 @@ ACoin::ACoin()
 void ACoin::BeginPlay()
 {
 	Super::BeginPlay();
-	
+
 	//Calling the collider when an overlap occurs
 	Collider->OnComponentBeginOverlap.AddDynamic(this, &ACoin::OnComponentOverlap);
+
+
+	/*if (MyCoinClass != nullptr)
+	{
+		UWorld* World = GetWorld();
+		if (World != nullptr)
+		{
+			FTransform SpawnTransform = GetActorTransform();
+
+			ACoin* SpawnedActor = World->SpawnActor<ACoin>(MyCoinClass, SpawnTransform);
+
+			if (SpawnedActor != nullptr)
+			{
+				UE_LOG(LogTemp, Log, TEXT("Spawned successfully! New Actor: %s"), *SpawnedActor->GetName());
+			}
+		}
+	}*/
 }
 
 //Checking if anthing has collided with it
 void ACoin::OnComponentOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult) 
 { 
 	ACoin::Destroy();
+	//UInventoryComponent::AddItem(this);
 }
-

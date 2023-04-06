@@ -13,13 +13,6 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define SEM2_InventoryComponent_generated_h
 
-#define SEM2_Source_SEM2_InventoryComponent_h_11_DELEGATE \
-static inline void FOnInventoryUpdated_DelegateWrapper(const FMulticastScriptDelegate& OnInventoryUpdated) \
-{ \
-	OnInventoryUpdated.ProcessMulticastDelegate<UObject>(NULL); \
-}
-
-
 #define SEM2_Source_SEM2_InventoryComponent_h_17_SPARSE_DATA
 #define SEM2_Source_SEM2_InventoryComponent_h_17_RPC_WRAPPERS
 #define SEM2_Source_SEM2_InventoryComponent_h_17_RPC_WRAPPERS_NO_PURE_DECLS

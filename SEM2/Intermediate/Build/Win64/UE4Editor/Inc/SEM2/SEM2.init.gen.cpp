@@ -11,22 +11,18 @@
 #endif
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 void EmptyLinkFunctionForGeneratedCodeSEM2_init() {}
-	SEM2_API UFunction* Z_Construct_UDelegateFunction_SEM2_OnInventoryUpdated__DelegateSignature();
 	UPackage* Z_Construct_UPackage__Script_SEM2()
 	{
 		static UPackage* ReturnPackage = nullptr;
 		if (!ReturnPackage)
 		{
-			static UObject* (*const SingletonFuncArray[])() = {
-				(UObject* (*)())Z_Construct_UDelegateFunction_SEM2_OnInventoryUpdated__DelegateSignature,
-			};
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/SEM2",
-				SingletonFuncArray,
-				UE_ARRAY_COUNT(SingletonFuncArray),
+				nullptr,
+				0,
 				PKG_CompiledIn | 0x00000000,
-				0x5FD9325F,
-				0x0B9DAAAA,
+				0x7F3E58EF,
+				0x55C458F4,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
