@@ -1,0 +1,28 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SEM2-8027.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Coin.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\First_Attempt.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\InventoryComponent.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Item.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\MyEnemy.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\MyObjectPool.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Coin.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\First_Attempt.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\InventoryComponent.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Item.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\MyEnemy.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\MyObjectPool.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2.init.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\SEM2GameModeBase.gen.cpp.obj"
+"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Default.rc2.res"
+/OUT:"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-8027.lib"
+/INCLUDE:IMPLEMENT_MODULE_SEM2

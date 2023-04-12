@@ -1,0 +1,1618 @@
+﻿Log file open, 04/12/23 13:39:52
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SEM2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.554596
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/alec/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz, GPU: Intel(R) HD Graphics 530
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.04.12-12.40.06:247][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.04.12-12.40.06:247][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.04.12-12.40.06:248][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:251][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.04.12-12.40.06:251][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.04.12-12.40.06:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:252][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.12-12.40.06:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.12-12.40.06:264][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.12-12.40.06:265][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.12-12.40.06:266][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.12-12.40.06:266][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.04.12-12.40.06:268][  0]LogHAL: Display: Platform has ~ 40 GB [42801266688 / 68719476736 / 40], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.04.12-12.40.06:268][  0]LogInit: Going up to parent DeviceProfile []
+[2023.04.12-12.40.06:268][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:268][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.04.12-12.40.06:268][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.04.12-12.40.06:268][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:268][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.04.12-12.40.06:269][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Scalability.ini]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.04.12-12.40.06:270][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.04.12-12.40.06:279][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.04.12-12.40.06:279][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.04.12-12.40.06:279][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.04.12-12.40.06:279][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Engine.ini]
+[2023.04.12-12.40.06:279][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Config/Windows/Editor.ini]
+[2023.04.12-12.40.06:286][  0]LogInit: Computer: DESKTOP-Q02179F
+[2023.04.12-12.40.06:286][  0]LogInit: User: alec
+[2023.04.12-12.40.06:286][  0]LogInit: CPU Page size=4096, Cores=4
+[2023.04.12-12.40.06:286][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.04.12-12.40.06:286][  0]LogMemory: Memory total: Physical=39.9GB (40GB approx)
+[2023.04.12-12.40.06:286][  0]LogMemory: Platform Memory Stats for Windows
+[2023.04.12-12.40.06:286][  0]LogMemory: Process Physical Memory: 131.13 MB used, 131.13 MB peak
+[2023.04.12-12.40.06:286][  0]LogMemory: Process Virtual Memory: 108.59 MB used, 108.59 MB peak
+[2023.04.12-12.40.06:286][  0]LogMemory: Physical Memory: 5379.43 MB used,  35439.04 MB free, 40818.47 MB total
+[2023.04.12-12.40.06:286][  0]LogMemory: Virtual Memory: 134176304.00 MB used,  41423.97 MB free, 134217728.00 MB total
+[2023.04.12-12.40.06:294][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.04.12-12.40.06:939][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.04.12-12.40.06:943][  0]LogInit: Using OS detected language (en-GB).
+[2023.04.12-12.40.06:943][  0]LogInit: Using OS detected locale (en-GB).
+[2023.04.12-12.40.06:970][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2023.04.12-12.40.07:502][  0]LogInit: Setting process to per monitor DPI aware
+[2023.04.12-12.40.07:537][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.12-12.40.08:296][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.04.12-12.40.08:296][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.04.12-12.40.15:901][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.12-12.40.15:901][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.04.12-12.40.15:901][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.04.12-12.40.15:901][  0]LogD3D11RHI: D3D11 adapters:
+[2023.04.12-12.40.21:315][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 530' (Feature Level 11_0)
+[2023.04.12-12.40.21:315][  0]LogD3D11RHI:       128/0/20409 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2023.04.12-12.40.21:319][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.04.12-12.40.21:319][  0]LogD3D11RHI:       0/0/20409 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.04.12-12.40.21:319][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2023.04.12-12.40.21:326][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.04.12-12.40.21:326][  0]LogD3D11RHI:     GPU DeviceId: 0x1912 (for the marketing name, search the web for "GPU Device Id")
+[2023.04.12-12.40.21:326][  0]LogWindows: EnumDisplayDevices:
+[2023.04.12-12.40.21:326][  0]LogWindows:    0. 'Intel(R) HD Graphics 530' (P:1 D:1)
+[2023.04.12-12.40.21:327][  0]LogWindows:    1. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2023.04.12-12.40.21:327][  0]LogWindows:    2. 'Intel(R) HD Graphics 530' (P:0 D:0)
+[2023.04.12-12.40.21:327][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2023.04.12-12.40.21:327][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 530
+[2023.04.12-12.40.21:327][  0]LogD3D11RHI:   Driver Version: 30.0.101.1692 (internal:30.0.101.1692, unified:30.0.101.1692)
+[2023.04.12-12.40.21:327][  0]LogD3D11RHI:      Driver Date: 4-3-2022
+[2023.04.12-12.40.21:328][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2023.04.12-12.40.26:021][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2023.04.12-12.40.26:092][  0]LogD3D11RHI: Intel Extensions support version Full=16777216, Major=1, Minor=0, Revision=0
+[2023.04.12-12.40.26:092][  0]LogD3D11RHI: Intel Extensions support version Full=16777217, Major=1, Minor=0, Revision=1
+[2023.04.12-12.40.26:092][  0]LogD3D11RHI: Intel Extensions Framework enabled
+[2023.04.12-12.40.26:092][  0]LogD3D11RHI: Async texture creation enabled
+[2023.04.12-12.40.26:092][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.04.12-12.40.26:137][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2023.04.12-12.40.26:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.04.12-12.40.26:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.04.12-12.40.26:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.04.12-12.40.26:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.04.12-12.40.26:798][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.04.12-12.40.26:810][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.04.12-12.40.26:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.04.12-12.40.26:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.04.12-12.40.26:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.04.12-12.40.26:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.04.12-12.40.26:872][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.04.12-12.40.26:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.04.12-12.40.26:909][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.04.12-12.40.26:921][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.04.12-12.40.26:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.04.12-12.40.26:957][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.04.12-12.40.26:968][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.04.12-12.40.26:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.04.12-12.40.26:987][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.04.12-12.40.26:999][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.04.12-12.40.27:012][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.04.12-12.40.27:024][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.04.12-12.40.27:038][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.04.12-12.40.27:038][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.04.12-12.40.27:105][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.04.12-12.40.27:441][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.04.12-12.40.27:442][  0]LogShaderCompilers: Guid format shader working directory is -27 characters bigger than the processId version (../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Intermediate/Shaders/WorkingDirectory/1584/).
+[2023.04.12-12.40.27:442][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/alec/AppData/Local/Temp/UnrealShaderWorkingDir/AB7C235F4BD933CA2A9F1183FD8F176B/'.
+[2023.04.12-12.40.27:443][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.04.12-12.40.27:443][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.04.12-12.40.31:642][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.04.12-12.40.31:862][  0]LogDerivedDataCache: Loaded boot cache 0.22s 77MB C:/Users/alec/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.04.12-12.40.31:862][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/alec/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2023.04.12-12.40.31:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.04.12-12.40.31:863][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.04.12-12.40.31:863][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.12-12.40.31:863][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.04.12-12.40.31:893][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.04.12-12.40.31:893][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.04.12-12.40.31:893][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.04.12-12.40.31:973][  0]LogDerivedDataCache: Speed tests for C:/Users/alec/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.08 seconds
+[2023.04.12-12.40.31:973][  0]LogDerivedDataCache: Display: Performance to C:/Users/alec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.22ms. RandomReadSpeed=14.56MBs, RandomWriteSpeed=69.20MBs. Assigned SpeedClass 'Local'
+[2023.04.12-12.40.31:975][  0]LogDerivedDataCache: Using Local data cache path C:/Users/alec/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.04.12-12.40.31:975][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.04.12-12.40.31:975][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.04.12-12.40.32:044][  0]LogSlate: Using FreeType 2.10.0
+[2023.04.12-12.40.32:062][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.04.12-12.40.32:132][  0]LogAssetRegistry: FAssetRegistry took 0.0083 seconds to start up
+[2023.04.12-12.40.32:762][  0]LogInit: Selected Device Profile: [Windows]
+[2023.04.12-12.40.32:762][  0]LogInit: Active device profile: [000001E64D8DE200][000001E64D0E4C00 49] Windows
+[2023.04.12-12.40.32:762][  0]LogInit: Profiles: [000001E64D8DE200][000001E64D0E4C00 49] Windows, [000001E64D879A00][000001E64D0ECD80 49] WindowsNoEditor, [000001E64D8DEF00][000001E64D0F0F00 49] WindowsServer, [000001E64D87A500][000001E64D0F5080 49] WindowsClient, [000001E64D8DCF00][000001E64D0F9200 49] IOS, [000001E64D879100][000001E64D0FD380 49] iPadAir, [000001E64D8DDC00][000001E64D101500 49] iPadAir2, [000001E64D821E00][000001E64D105740 49] IPadPro, [000001E64D821F00][000001E64D0E9780 49] iPadAir3, [000001E64D878500][000001E64D1098C0 49] iPadAir4, [000001E64D823700][000001E64D10DA00 49] iPadMini2, [000001E64D87A800][000001E64E39DB80 49] iPadMini3, [000001E64D821400][000001E64E3A1D00 49] iPadMini4, [000001E64D879700][000001E64E3A41C0 49] iPadMini5, [000001E64D889500][000001E64E3AC480 49] iPhone6, [000001E64D889600][000001E64E3A84C0 49] iPodTouch6, [000001E64D820F00][000001E64E3B4780 49] iPhone7, [000001E64D820E00][000001E64E3B07C0 49] iPodTouch7, [000001E64D88AD00][000001E64E3B8940 49] iPhone5S, [000001E64D822A00][000001E64E3BCAC0 49] iPhone6Plus, [000001E64D88BE00][000001E64E3C0C40 49] iPhone6S, [000001E64D820100][000001E64E3C4DC0 49] iPhone6SPlus, [000001E64D888700][000001E64E3C8F40 49] iPhone7Plus, [000001E64D820A00][000001E64E3CD0C0 49] iPhoneSE, [000001E64D88A500][000001E64E3D1240 49] iPhone8, [000001E64D821500][000001E64E3D53C0 49] iPhone8Plus, [000001E64D888200][000001E64E3D9540 49] iPhoneX, [000001E64D822900][000001E64E3DD6C0 49] iPhoneXS, [000001E64D88A000][000001E64E399800 49] iPhoneXSMax, [000001E64D821600][000001E64E3E1940 49] iPhoneXR, [000001E64D888D00][000001E64E3E5A80 49] iPhone11, [000001E64D822500][000001E64E3EDC00 49] iPhone11Pro, [000001E64D88A300][000001E64E3F00C0 49] iPhone11ProMax, [000001E64D823F00][000001E64E3F4240 49] iPhoneSE2, [000001E64D889E00][000001E64E3F83C0 49] iPhone12Mini, [000001E64D822F00][000001E64E3FC540 49] iPhone12, [000001E64D889200][000001E64E4006C0 49] iPhone12Pro, [000001E64D820600][000001E64E404840 49] iPhone12ProMax, [000001E64D88B700][000001E64E4089C0 49] iPadPro105, [000001E64D8DCE00][000001E64E40CB40 49] iPadPro129, [000001E64D888B00][000001E64E410CC0 49] iPadPro97, [000001E64D8DC800][000001E64E414E40 49] iPadPro2_129, [000001E64D88A900][000001E64E418FC0 49] iPad5, [000001E64D8DEE00][000001E64E41D140 49] iPad6, [000001E64D889B00][000001E64E4212C0 49] iPad7, [000001E64D8DE500][000001E64E425440 49] iPad8, [000001E64D88B900][000001E64E4295C0 49] iPadPro11, [000001E64D8DC500][000001E64E42D740 49] iPadPro2_11, [000001E64D889400][000001E64E3E9880 49] iPadPro3_129, [000001E64D8DDA00][000001E64E4319C0 49] iPadPro4_129, [000001E64D889000][000001E64E435B00 49] AppleTV, [000001E64D8DEB00][000001E64E439C40 49] AppleTV4K, [000001E64D889900][000001E64E440100 49] TVOS, [000001E64D8DD300][000001E64E444280 49] Mac, [000001E64D88BD00][000001E64E448400 49] MacClient, [000001E64D8DD900][000001E64E44C580 49] MacNoEditor, [000001E64D88B400][000001E64E450700 49] MacServer, [000001E64D8DC600][000001E64E454880 49] Linux, [000001E64D88A200][000001E64E458A00 49] LinuxAArch64, [000001E64D8DDD00][000001E64E45CB80 49] LinuxNoEditor, [000001E64D88A400][000001E64E460D00 49] LinuxAArch64NoEditor, [000001E64D8DCB00][000001E64E464E80 49] LinuxClient, [000001E64D88AA00][000001E64E469000 49] LinuxAArch64Client, [000001E64D8DD500][000001E64E46D180 49] LinuxServer, [000001E64D88BC00][000001E64E471300 49] LinuxAArch64Server, [000001E64D8DE000][000001E64E475480 49] Android, [000001E64D88B000][000001E64E479600 49] Android_Low, [000001E64D8DE700][000001E64E47D780 49] Android_Mid, [000001E64D88B800][000001E64E43D8C0 49] Android_High, [000001E64D8DCD00][000001E64E481A00 49] Android_Default, [000001E64D889C00][000001E64E485B40 49] Android_Adreno4xx, [000001E64D8DC300][000001E64E489C80 49] Android_Adreno5xx_Low, [000001E64D888600][000001E64E490140 49] Android_Adreno5xx, [000001E64D820300][000001E64E4942C0 49] Android_Adreno6xx, [000001E64D87A300][000001E64E498440 49] Android_Adreno6xx_Vulkan, [000001E64D822800][000001E64E49C5C0 49] Android_Mali_T6xx, [000001E64D878C00][000001E64E4A0740 49] Android_Mali_T7xx, [000001E64D820800][000001E64E4A48C0 49] Android_Mali_T8xx, [000001E64D87A400][000001E64E4A8A40 49] Android_Mali_G71, [000001E64D820400][000001E64E4ACBC0 49] Android_Mali_G72, [000001E64D879900][000001E64E4B0D40 49] Android_Mali_G72_Vulkan, [000001E64D823900][000001E64E4B4EC0 49] Android_Mali_G76, [000001E64D87B900][000001E64E4B9040 49] Android_Mali_G76_Vulkan, [000001E64D821200][000001E64E4BD1C0 49] Android_Mali_G77, [000001E64D878800][000001E64E4C1340 49] Android_Mali_G77_Vulkan, [000001E64D823600][000001E64E4C54C0 49] Android_Vulkan_SM5, [000001E64D878E00][000001E64E4C9640 49] Android_PowerVR_G6xxx, [000001E64D821C00][000001E64E4CD7C0 49] Android_PowerVR_GT7xxx, [000001E64D87A900][000001E64E4D1940 49] Android_PowerVR_GE8xxx, [000001E64D820200][000001E64E48DA80 49] Android_PowerVR_GM9xxx, [000001E64D879300][000001E64E4D5BC0 49] Android_PowerVR_GM9xxx_Vulkan, [000001E64D820C00][000001E64E4D9D00 49] Android_TegraK1, [000001E64D87B800][000001E64E4E01C0 49] Android_Unknown_Vulkan, [000001E64D822300][000001E64E4E4340 49] Lumin, [000001E64D87AF00][000001E64E4E84C0 49] Lumin_Desktop, [000001E64D823400][000001E64E4EC640 49] HoloLens, 
+[2023.04.12-12.40.33:418][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.04.12-12.40.33:418][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.04.12-12.40.33:418][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.04.12-12.40.33:418][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.04.12-12.40.33:419][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.04.12-12.40.33:589][  0]LogNetVersion: SEM2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3216000645)
+[2023.04.12-12.40.41:068][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.04.12-12.40.41:164][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.094121 seconds
+[2023.04.12-12.40.41:171][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2023.04.12-12.40.41:171][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2023.04.12-12.40.41:171][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.04.12-12.40.42:936][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.04.12-12.40.42:948][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.04.12-12.40.43:313][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.43:313][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.43:339][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.43:349][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.43:364][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.43:384][  0]LogUProjectInfo: Found projects:
+[2023.04.12-12.40.44:198][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.04.12-12.40.44:239][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-12.40.44:239][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.04.12-12.40.44:381][  0]LogCollectionManager: Loaded 0 collections in 0.003117 seconds
+[2023.04.12-12.40.44:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Collections/' took 0.00s
+[2023.04.12-12.40.44:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Developers/alec/Collections/' took 0.00s
+[2023.04.12-12.40.44:458][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Collections/' took 0.00s
+[2023.04.12-12.40.44:458][  0]LogOcInput: OculusInput pre-init called
+[2023.04.12-12.40.44:484][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2023.04.12-12.40.44:484][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2023.04.12-12.40.44:656][  0]LogEngine: Initializing Engine...
+[2023.04.12-12.40.44:658][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.04.12-12.40.44:659][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.04.12-12.40.44:663][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2023.04.12-12.40.45:065][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.04.12-12.40.45:112][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.04.12-12.40.45:119][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.04.12-12.40.45:128][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.04.12-12.40.45:128][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-12.40.45:129][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-12.40.45:129][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-12.40.45:132][  0]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-12.40.45:132][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-12.40.45:168][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-12.40.45:168][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-12.40.45:725][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-12.40.45:728][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-12.40.45:761][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-12.40.45:762][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-12.40.45:763][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-12.40.45:764][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-12.40.45:765][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-12.40.45:767][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-12.40.45:767][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-12.40.45:767][  0]LogInit: FAudioDevice initialized.
+[2023.04.12-12.40.45:767][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.04.12-12.40.45:769][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.04.12-12.40.45:878][  0]LogDerivedDataCache: Saved boot cache 0.11s 77MB C:/Users/alec/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2023.04.12-12.40.45:880][  0]LogInit: Texture streaming: Enabled
+[2023.04.12-12.40.45:910][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2023.04.12-12.40.45:918][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.04.12-12.40.45:918][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.04.12-12.40.45:923][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.04.12-12.40.45:978][  0]LogInit: Transaction tracking system initialized
+[2023.04.12-12.40.46:059][  0]BlueprintLog: New page: Editor Load
+[2023.04.12-12.40.46:304][  0]LocalizationService: Localization service is disabled
+[2023.04.12-12.40.46:436][  0]TimingProfiler: Initialize
+[2023.04.12-12.40.46:441][  0]TimingProfiler: OnSessionChanged
+[2023.04.12-12.40.46:442][  0]LoadingProfiler: Initialize
+[2023.04.12-12.40.46:443][  0]LoadingProfiler: OnSessionChanged
+[2023.04.12-12.40.46:443][  0]NetworkingProfiler: Initialize
+[2023.04.12-12.40.46:444][  0]NetworkingProfiler: OnSessionChanged
+[2023.04.12-12.40.46:444][  0]MemoryProfiler: Initialize
+[2023.04.12-12.40.46:444][  0]MemoryProfiler: OnSessionChanged
+[2023.04.12-12.40.47:413][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.04.12-12.40.47:413][  0]LogCook: Display: Mobile HDR setting 1
+[2023.04.12-12.40.47:884][  0]LogFileCache: Scanning file cache for directory 'C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/' took 0.01s
+[2023.04.12-12.40.48:109][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.04.12-12.40.48:122][  0]SourceControl: Source control is disabled
+[2023.04.12-12.40.48:123][  0]LogUnrealEdMisc: Loading editor; pre map load, took 61.871
+[2023.04.12-12.40.48:126][  0]Cmd: MAP LOAD FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.12-12.40.48:153][  0]LightingResults: New page: Lighting Build
+[2023.04.12-12.40.48:163][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-12.40.48:164][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-12.40.48:167][  0]MapCheck: New page: Map Check
+[2023.04.12-12.40.48:167][  0]LightingResults: New page: Lighting Build
+[2023.04.12-12.40.48:202][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2023.04.12-12.40.48:398][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:399][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:399][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:399][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:399][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:400][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:400][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Default__Test_C Referenced by Default__Test_C
+[2023.04.12-12.40.48:400][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:400][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test Referenced by Test
+[2023.04.12-12.40.48:400][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:400][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:401][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:401][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:401][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:401][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:401][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:401][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:402][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:402][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:567][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:568][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:568][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:568][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:568][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:569][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:569][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:569][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:569][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:570][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:570][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:572][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\Test.uasset: Failed to load '/Game/BluePrints/Test': Can't find file.
+[2023.04.12-12.40.48:572][  0]LoadErrors: Failed to load /Game/BluePrints/Test.Test_C Referenced by Test_C
+[2023.04.12-12.40.48:578][  0]LogLinker: Warning: [AssetLog] C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2023.04.12-12.40.48:578][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2023.04.12-12.40.48:711][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2023.04.12-12.40.48:713][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2023.04.12-12.40.48:755][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.12-12.40.48:775][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.12-12.40.48:777][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.12-12.40.48:777][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.163ms to complete.
+[2023.04.12-12.40.48:777][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.653
+[2023.04.12-12.40.48:830][  0]LogUnrealEdMisc: Total Editor Startup Time, took 62.578
+[2023.04.12-12.40.49:027][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-12.40.49:037][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-12.40.49:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-12.40.49:051][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-12.40.49:339][  0]LogSlate: Took 0.010015 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.04.12-12.40.49:350][  0]LogSlate: Took 0.007890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.04.12-12.40.49:492][  0]LogRenderer: Reallocating scene render targets to support 1528x924 Format 10 NumSamples 1 (Frame:1).
+[2023.04.12-12.40.50:741][  0]LogLoad: (Engine Initialization) Total time: 64.49 seconds
+[2023.04.12-12.40.50:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.04.12-12.40.50:741][  0]LogInit: First time updating LLM stats...
+[2023.04.12-12.40.50:761][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'BP_Spinning_Cube': Test_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Test_2
+[2023.04.12-12.40.50:761][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': Test_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Test_2
+[2023.04.12-12.40.50:761][  0]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Cube': Test_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Test_2
+[2023.04.12-12.40.50:790][  0]LogAssetRegistry: Asset discovery search completed in 18.6600 seconds
+[2023.04.12-12.40.50:792][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2023.04.12-12.40.50:823][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.04.12-12.40.51:046][  0]LogSlate: Took 0.008500 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.04.12-12.41.02:920][ 21]LogSlate: Window 'Message Log' being destroyed
+[2023.04.12-12.41.02:935][ 21]LogSlate: Window 'Message Log' being destroyed
+[2023.04.12-12.41.07:247][292]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-12.41.07:286][292]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2023.04.12-12.41.07:307][292]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.12-12.41.07:307][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:307][292]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.12-12.41.07:307][292]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2023.04.12-12.41.07:320][292]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.12-12.41.07:320][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:320][292]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.12-12.41.07:320][292]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2023.04.12-12.41.07:328][292]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.04.12-12.41.07:328][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:328][292]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.04.12-12.41.07:328][292]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2023.04.12-12.41.07:337][292]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.12-12.41.07:337][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:337][292]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.12-12.41.07:337][292]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2023.04.12-12.41.07:345][292]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.12-12.41.07:345][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:345][292]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.12-12.41.07:345][292]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2023.04.12-12.41.07:353][292]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.12-12.41.07:353][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:353][292]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.12-12.41.07:353][292]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2023.04.12-12.41.07:359][292]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.12-12.41.07:359][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:359][292]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.12-12.41.07:359][292]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2023.04.12-12.41.07:381][292]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.12-12.41.07:381][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:381][292]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.12-12.41.07:381][292]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2023.04.12-12.41.07:391][292]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.12-12.41.07:391][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:391][292]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.12-12.41.07:391][292]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2023.04.12-12.41.07:400][292]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.04.12-12.41.07:400][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:400][292]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.04.12-12.41.07:400][292]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2023.04.12-12.41.07:406][292]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.04.12-12.41.07:406][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:406][292]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.04.12-12.41.07:406][292]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2023.04.12-12.41.07:416][292]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.12-12.41.07:416][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:416][292]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.12-12.41.07:416][292]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2023.04.12-12.41.07:424][292]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.12-12.41.07:424][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:424][292]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.12-12.41.07:424][292]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2023.04.12-12.41.07:435][292]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.12-12.41.07:435][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:435][292]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.12-12.41.07:435][292]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.04.12-12.41.07:443][292]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.04.12-12.41.07:443][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:443][292]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.04.12-12.41.07:443][292]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.04.12-12.41.07:450][292]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.12-12.41.07:450][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:450][292]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.12-12.41.07:450][292]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.04.12-12.41.07:458][292]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.04.12-12.41.07:458][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:458][292]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.04.12-12.41.07:458][292]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.04.12-12.41.07:467][292]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.12-12.41.07:467][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:467][292]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.12-12.41.07:467][292]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2023.04.12-12.41.07:474][292]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.12-12.41.07:475][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:475][292]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.12-12.41.07:475][292]LogPakFile: OnPakFileMounted2Time == 0.000078
+[2023.04.12-12.41.07:486][292]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.12-12.41.07:486][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:486][292]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.12-12.41.07:486][292]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2023.04.12-12.41.07:494][292]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.04.12-12.41.07:494][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:494][292]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.04.12-12.41.07:494][292]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2023.04.12-12.41.07:502][292]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.04.12-12.41.07:502][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:502][292]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.04.12-12.41.07:502][292]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2023.04.12-12.41.07:511][292]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.04.12-12.41.07:511][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:511][292]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.04.12-12.41.07:511][292]LogPakFile: OnPakFileMounted2Time == 0.000093
+[2023.04.12-12.41.07:520][292]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.04.12-12.41.07:520][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:520][292]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.04.12-12.41.07:520][292]LogPakFile: OnPakFileMounted2Time == 0.000097
+[2023.04.12-12.41.07:529][292]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.04.12-12.41.07:529][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:529][292]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.04.12-12.41.07:529][292]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2023.04.12-12.41.07:537][292]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.04.12-12.41.07:537][292]LogPakFile: PakFile PathHashIndexSize=101
+[2023.04.12-12.41.07:537][292]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.04.12-12.41.07:537][292]LogPakFile: OnPakFileMounted2Time == 0.000105
+[2023.04.12-12.41.07:837][292]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.04.12-12.41.07:876][292]LogSlate: Took 0.030083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.04.12-12.41.08:461][292]LogSlate: Took 0.093113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.12-12.41.11:966][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2023.04.12-12.41.12:765][625]LogSlate: Took 0.000455 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.04.12-12.41.17:521][625]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/CoinCollection.CoinCollection
+[2023.04.12-12.41.17:521][625]Cmd: MAP LOAD FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.04.12-12.41.17:522][625]LightingResults: New page: Lighting Build
+[2023.04.12-12.41.17:522][625]LoadErrors: New page: Loading map: CoinCollection.umap
+[2023.04.12-12.41.17:525][625]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-12.41.17:525][625]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-12.41.17:525][625]MapCheck: New page: Map Check
+[2023.04.12-12.41.17:525][625]LightingResults: New page: Lighting Build
+[2023.04.12-12.41.17:530][625]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-12.41.17:553][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.12-12.41.17:568][625]LogAudio: Display: Audio Device (ID: 1) registered with world 'CoinCollection'.
+[2023.04.12-12.41.17:673][625]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.04.12-12.41.17:673][625]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-12.41.17:681][625]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2023.04.12-12.41.17:692][625]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.04.12-12.41.17:692][625]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.155ms to complete.
+[2023.04.12-12.41.17:693][625]LogFileHelpers: Loading map 'CoinCollection' took 0.171
+[2023.04.12-13.13.27:354][926]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.04.12-13.13.27:358][926]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.04.12-13.13.32:584][553]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CoinCount
+[2023.04.12-13.13.32:605][553]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.04.12-13.13.33:984][715]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/CoinCount.CoinCount
+[2023.04.12-13.13.34:577][715]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2023.04.12-13.13.35:878][715]LogSlate: Took 0.005583 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.04.12-13.13.39:257][ 44]LogSlate: Window 'CoinCount' being destroyed
+[2023.04.12-13.15.38:546][757]BlueprintLog: New page: Compile CoinCount
+[2023.04.12-13.15.38:606][757]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2023.04.12-13.15.39:068][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CoinCount" FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/UI/CoinCount.uasset" SILENT=true
+[2023.04.12-13.15.39:075][804]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCountCFBF18214A68752CBE07ED95AF4DFE6B.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/UI/CoinCount.uasset'
+[2023.04.12-13.15.39:091][804]AssetCheck: New page: Asset Save: CoinCount
+[2023.04.12-13.15.39:091][804]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CoinCount.CoinCount
+[2023.04.12-13.16.51:884][740]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/CoinCount" FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/UI/CoinCount.uasset" SILENT=true
+[2023.04.12-13.16.51:888][740]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCount8F149FC240F07A5B74DA5FB865275E95.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/UI/CoinCount.uasset'
+[2023.04.12-13.16.51:904][740]AssetCheck: New page: Asset Save: CoinCount
+[2023.04.12-13.16.51:904][740]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/CoinCount.CoinCount
+[2023.04.12-13.20.07:964][722]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Item.Item
+[2023.04.12-13.20.14:835][483]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.20.14:836][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.20.14:845][483]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.20.14:845][483]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.20.16:550][677]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Inventory.Inventory
+[2023.04.12-13.20.17:668][767]LogSlate: Took 0.006479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.04.12-13.20.22:757][373]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.20.22:757][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.20.22:767][373]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.20.22:767][373]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.21.22:967][957]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.21.22:967][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.21.22:977][957]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.21.22:977][957]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.21.49:703][273]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2023.04.12-13.21.49:705][273]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/CoinCollection' took 0.072
+[2023.04.12-13.21.49:707][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/CoinCount] ([1] browsable assets)...
+[2023.04.12-13.21.49:707][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/CoinCount]
+[2023.04.12-13.21.49:710][273]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCount_Auto1F7DCC3F24C1209D24C5A00B1A61C8DD7.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/Autosaves/Game/UI/CoinCount_Auto1.uasset'
+[2023.04.12-13.21.49:711][273]LogFileHelpers: Auto-saving content packages took 0.006
+[2023.04.12-13.27.16:929][263]Candidate modules for hot reload:
+[2023.04.12-13.27.16:929][263]  SEM2
+[2023.04.12-13.27.16:929][263]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,4770 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.27.16:932][263]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.28.08:414][  4]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:28:08
+[2023.04.12-13.28.08:414][  4]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Parsing headers for SEM2Editor
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   Running UnrealHeaderTool "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\SEM2.uproject" "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\SEM2Editor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\alec\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Reflection code generated for SEM2Editor in 33.5131584 seconds
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Building 8 actions with 8 processes...
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [1/8] SEM2.init.gen.cpp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [2/8] InventoryComponent.cpp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [3/8] Coin.cpp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [4/8] InventoryComponent.gen.cpp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [5/8] Coin.gen.cpp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [6/8] UE4Editor-SEM2-4770.lib
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-4770.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-4770.exp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [7/8] UE4Editor-SEM2-4770.dll
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-4770.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-4770.suppressed.exp
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog:   [8/8] SEM2Editor.target
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Total time in Parallel executor: 16.13 seconds
+[2023.04.12-13.28.08:415][  4]CompilerResultsLog: Total execution time: 51.30 seconds
+[2023.04.12-13.28.08:415][  4]LogMainFrame: MainFrame: Module compiling took 51.528 seconds
+[2023.04.12-13.28.08:472][  4]LogClass: Could not find existing class Coin in package /Script/SEM2 for HotReload, assuming new class
+[2023.04.12-13.28.08:473][  4]LogClass: Function OnComponentOverlap is new.
+[2023.04.12-13.28.08:505][  4]LogHotReload: Re-instancing Coin after hot-reload.
+[2023.04.12-13.28.08:553][  4]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0004 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.28.08:556][  4]Display: HotReload successful (2 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.28.08:646][  4]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0095 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.28.08:654][  4]Display: HotReload took 51.8s.
+[2023.04.12-13.28.18:138][524]LogEditor: Attempting to add actor of class 'Coin' to level at 652.04,-1179.49,-4100.09
+[2023.04.12-13.28.19:503][545]LogEditor: Attempting to add actor of class 'Coin' to level at 1047.45,-594.16,-4471.61
+[2023.04.12-13.29.12:611][960]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2023.04.12-13.29.12:641][960]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCollection715EEBF94ED40B89AE90FA83A92507AC.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection.umap'
+[2023.04.12-13.29.12:664][960]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoinCollection_BuiltData" FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection_BuiltData.uasset" SILENT=true
+[2023.04.12-13.29.12:715][960]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCollection_BuiltDataDC9F9AA7493592A9C3A7E195424BCEE7.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection_BuiltData.uasset'
+[2023.04.12-13.29.12:731][960]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.12-13.29.12:731][960]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CoinCollection_BuiltData.CoinCollection_BuiltData
+[2023.04.12-13.29.12:731][960]LogContentValidation: Display: Validating World /Game/Maps/CoinCollection.CoinCollection
+[2023.04.12-13.29.13:883][979]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.29.13:900][979]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.12-13.29.13:901][979]LogPlayLevel: [PlayLevel] Compiling CoinCount before play...
+[2023.04.12-13.29.14:026][979]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2023.04.12-13.29.14:027][979]LogPlayLevel: PlayLevel: Blueprint regeneration took 126 ms (1 blueprints)
+[2023.04.12-13.29.14:027][979]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:29:14)
+[2023.04.12-13.29.14:029][979]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.04.12-13.29.14:031][979]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.12-13.29.14:032][979]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.29.14:039][979]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007433s)
+[2023.04.12-13.29.14:040][979]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.29.14:041][979]LogPlayLevel: PIE: World Init took: (0.001323s)
+[2023.04.12-13.29.14:041][979]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.008958s)
+[2023.04.12-13.29.14:055][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.12-13.29.14:055][979]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.29.14:056][979]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.29.14:056][979]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.29.14:056][979]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.29.14:059][979]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.29.14:059][979]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.29.14:184][979]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.29.14:184][979]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.29.14:184][979]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.29.14:184][979]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.29.14:185][979]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.29.14:185][979]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.29.14:185][979]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.29.14:203][979]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.29.14:203][979]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.29.14:203][979]LogInit: FAudioDevice initialized.
+[2023.04.12-13.29.14:203][979]LogAudio: Display: Audio Device (ID: 2) registered with world 'CoinCollection'.
+[2023.04.12-13.29.14:212][979]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.29.14:213][979]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.29.14
+[2023.04.12-13.29.14:214][979]LogWorld: Bringing up level for play took: 0.000824
+[2023.04.12-13.29.14:214][979]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.04.12-13.29.14:231][979]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2023.04.12-13.29.14:246][979]PIE: Server logged in
+[2023.04.12-13.29.14:248][979]PIE: Play in editor total start time 0.353 seconds.
+[2023.04.12-13.29.26:664][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.29.26:664][195]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.29.26:666][195]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.29.26:666][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.29.26:793][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.29.26:824][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.29.26:847][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.29.26:847][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.29.26:848][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.29.26:900][195]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.04.12-13.29.26:941][196]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.04.12-13.29.35:379][331]LogEditorViewport: Clicking on Actor (LMB): Coin (Coin2)
+[2023.04.12-13.29.47:099][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.04.12-13.29.47:126][495]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCollection6DE703464F2ABEFF0093F1B70CA67DD7.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection.umap'
+[2023.04.12-13.29.47:143][495]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/CoinCollection_BuiltData" FILE="../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection_BuiltData.uasset" SILENT=true
+[2023.04.12-13.29.47:177][495]LogSavePackage: Moving '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Saved/CoinCollection_BuiltData15DDFA79453132D1514B5583C0A339B1.tmp' to '../../../../../../Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/Content/Maps/CoinCollection_BuiltData.uasset'
+[2023.04.12-13.29.47:191][495]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.12-13.29.47:191][495]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/CoinCollection_BuiltData.CoinCollection_BuiltData
+[2023.04.12-13.29.47:192][495]LogContentValidation: Display: Validating World /Game/Maps/CoinCollection.CoinCollection
+[2023.04.12-13.29.48:281][515]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.29.48:294][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.29.48:294][515]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:29:48)
+[2023.04.12-13.29.48:294][515]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.29.48:309][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015442s)
+[2023.04.12-13.29.48:312][515]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.29.48:312][515]LogPlayLevel: PIE: World Init took: (0.002908s)
+[2023.04.12-13.29.48:313][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.018689s)
+[2023.04.12-13.29.48:346][515]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2023.04.12-13.29.48:347][515]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.29.48:347][515]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.29.48:347][515]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.29.48:350][515]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.29.48:350][515]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.29.48:355][515]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.29.48:355][515]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.29.48:460][515]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.29.48:460][515]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.29.48:460][515]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.29.48:460][515]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.29.48:461][515]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.29.48:461][515]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.29.48:461][515]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.29.48:476][515]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.29.48:477][515]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.29.48:477][515]LogInit: FAudioDevice initialized.
+[2023.04.12-13.29.48:477][515]LogAudio: Display: Audio Device (ID: 3) registered with world 'CoinCollection'.
+[2023.04.12-13.29.48:483][515]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.29.48:484][515]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.29.48
+[2023.04.12-13.29.48:484][515]LogWorld: Bringing up level for play took: 0.001066
+[2023.04.12-13.29.48:485][515]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.04.12-13.29.48:487][515]PIE: Server logged in
+[2023.04.12-13.29.48:488][515]PIE: Play in editor total start time 0.197 seconds.
+[2023.04.12-13.29.58:442][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.29.58:442][701]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.29.58:442][701]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.29.58:443][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.29.58:547][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.29.58:573][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.29.58:585][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.29.58:585][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.29.58:586][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.29.58:608][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.04.12-13.29.58:645][702]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.04.12-13.37.07:642][ 25]Candidate modules for hot reload:
+[2023.04.12-13.37.07:642][ 25]  SEM2
+[2023.04.12-13.37.07:642][ 25]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,2722 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.37.07:650][ 25]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:37:13
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:   [2/4] UE4Editor-SEM2-2722.lib
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-2722.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-2722.exp
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:   [3/4] UE4Editor-SEM2-2722.dll
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-2722.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-2722.suppressed.exp
+[2023.04.12-13.37.13:236][106]CompilerResultsLog:   [4/4] SEM2Editor.target
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Total time in Parallel executor: 3.65 seconds
+[2023.04.12-13.37.13:236][106]CompilerResultsLog: Total execution time: 5.37 seconds
+[2023.04.12-13.37.13:237][106]LogMainFrame: MainFrame: Module compiling took 5.679 seconds
+[2023.04.12-13.37.13:329][106]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0005 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.37.13:336][106]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.37.13:420][106]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.37.13:426][106]Display: HotReload took  5.9s.
+[2023.04.12-13.37.15:659][138]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.37.15:668][138]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.37.15:668][138]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:37:15)
+[2023.04.12-13.37.15:668][138]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.37.15:678][138]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010310s)
+[2023.04.12-13.37.15:679][138]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.37.15:680][138]LogPlayLevel: PIE: World Init took: (0.001322s)
+[2023.04.12-13.37.15:680][138]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.011846s)
+[2023.04.12-13.37.15:789][138]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2023.04.12-13.37.15:790][138]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.37.15:790][138]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.37.15:790][138]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.37.15:791][138]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.37.15:791][138]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.37.15:794][138]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.37.15:794][138]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.37.15:880][138]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.37.15:880][138]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.37.15:880][138]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.37.15:880][138]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.37.15:881][138]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.37.15:881][138]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.37.15:881][138]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.37.15:895][138]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.37.15:895][138]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.37.15:895][138]LogInit: FAudioDevice initialized.
+[2023.04.12-13.37.15:895][138]LogAudio: Display: Audio Device (ID: 4) registered with world 'CoinCollection'.
+[2023.04.12-13.37.15:902][138]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.37.15:903][138]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.37.15
+[2023.04.12-13.37.15:904][138]LogWorld: Bringing up level for play took: 0.001056
+[2023.04.12-13.37.15:904][138]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.04.12-13.37.15:907][138]PIE: Server logged in
+[2023.04.12-13.37.15:909][138]PIE: Play in editor total start time 0.242 seconds.
+[2023.04.12-13.37.24:261][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.37.24:261][293]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.37.24:262][293]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.37.24:262][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.37.24:380][293]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.37.24:404][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.37.24:416][293]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.37.24:416][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.37.24:418][293]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.37.24:458][293]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.04.12-13.37.24:499][294]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.12-13.37.27:459][345]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.37.27:468][345]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.37.27:468][345]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:37:27)
+[2023.04.12-13.37.27:468][345]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.37.27:478][345]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009615s)
+[2023.04.12-13.37.27:479][345]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.37.27:480][345]LogPlayLevel: PIE: World Init took: (0.001980s)
+[2023.04.12-13.37.27:480][345]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.011830s)
+[2023.04.12-13.37.27:505][345]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.04.12-13.37.27:506][345]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.37.27:507][345]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.37.27:507][345]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.37.27:508][345]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.37.27:508][345]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.37.27:511][345]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.37.27:511][345]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.37.27:605][345]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.37.27:605][345]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.37.27:621][345]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.37.27:621][345]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.37.27:621][345]LogInit: FAudioDevice initialized.
+[2023.04.12-13.37.27:621][345]LogAudio: Display: Audio Device (ID: 5) registered with world 'CoinCollection'.
+[2023.04.12-13.37.27:631][345]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.37.27:633][345]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.37.27
+[2023.04.12-13.37.27:633][345]LogWorld: Bringing up level for play took: 0.000612
+[2023.04.12-13.37.27:633][345]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.04.12-13.37.27:636][345]PIE: Server logged in
+[2023.04.12-13.37.27:637][345]PIE: Play in editor total start time 0.17 seconds.
+[2023.04.12-13.37.31:911][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.37.31:911][427]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.37.31:911][427]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.37.31:912][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.37.32:034][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.37.32:070][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.37.32:082][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.37.32:082][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.37.32:083][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.37.32:105][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.04.12-13.37.32:144][428]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.12-13.38.25:988][672]Candidate modules for hot reload:
+[2023.04.12-13.38.25:988][672]  SEM2
+[2023.04.12-13.38.25:988][672]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,3377 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.38.25:992][672]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.38.30:272][738]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:38:30
+[2023.04.12-13.38.30:272][738]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.38.30:272][738]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.38.30:273][738]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.38.30:273][738]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:   [2/4] UE4Editor-SEM2-3377.lib
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-3377.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-3377.exp
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:   [3/4] UE4Editor-SEM2-3377.dll
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-3377.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-3377.suppressed.exp
+[2023.04.12-13.38.30:273][738]CompilerResultsLog:   [4/4] SEM2Editor.target
+[2023.04.12-13.38.30:273][738]CompilerResultsLog: Total time in Parallel executor: 2.90 seconds
+[2023.04.12-13.38.30:273][738]CompilerResultsLog: Total execution time: 4.10 seconds
+[2023.04.12-13.38.30:273][738]LogMainFrame: MainFrame: Module compiling took 4.394 seconds
+[2023.04.12-13.38.30:380][738]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.38.30:385][738]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.38.30:449][738]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0099 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.38.30:454][738]Display: HotReload took  4.6s.
+[2023.04.12-13.38.31:155][747]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.38.31:164][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.38.31:164][747]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:38:31)
+[2023.04.12-13.38.31:198][747]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.38.31:209][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010472s)
+[2023.04.12-13.38.31:210][747]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.38.31:211][747]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2023.04.12-13.38.31:211][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.012731s)
+[2023.04.12-13.38.31:288][747]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.04.12-13.38.31:290][747]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.38.31:290][747]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.38.31:290][747]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.38.31:291][747]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.38.31:291][747]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.38.31:293][747]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.38.31:293][747]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.38.31:374][747]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.38.31:374][747]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.38.31:374][747]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.38.31:374][747]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.38.31:375][747]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.38.31:375][747]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.38.31:375][747]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.38.31:390][747]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.38.31:390][747]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.38.31:390][747]LogInit: FAudioDevice initialized.
+[2023.04.12-13.38.31:390][747]LogAudio: Display: Audio Device (ID: 6) registered with world 'CoinCollection'.
+[2023.04.12-13.38.31:396][747]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.38.31:398][747]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.38.31
+[2023.04.12-13.38.31:398][747]LogWorld: Bringing up level for play took: 0.000872
+[2023.04.12-13.38.31:398][747]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.04.12-13.38.31:401][747]PIE: Server logged in
+[2023.04.12-13.38.31:401][747]PIE: Play in editor total start time 0.239 seconds.
+[2023.04.12-13.38.37:599][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.38.37:599][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.38.37:599][865]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.38.37:599][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.38.37:731][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.38.37:753][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.38.37:765][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-13.38.37:766][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.38.37:768][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.38.37:786][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.38.37:793][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2023.04.12-13.38.37:832][866]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.12-13.43.30:957][901]Candidate modules for hot reload:
+[2023.04.12-13.43.30:957][901]  SEM2
+[2023.04.12-13.43.30:957][901]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,8027 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.43.30:964][901]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.43.33:966][946]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:43:33
+[2023.04.12-13.43.33:966][946]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.43.33:966][946]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.43.33:966][946]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.43.33:966][946]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.43.33:966][946]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.43.33:966][946]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.43.33:966][946]CompilerResultsLog:    C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(48) : error C4002: too many arguments for function-like macro invocation 'TEXT'
+[2023.04.12-13.43.33:966][946]LogMainFrame: MainFrame: Module compiling took 3.110 seconds
+[2023.04.12-13.43.33:988][946]Warning: HotReload failed, recompile failed
+[2023.04.12-13.43.46:112][130]LogSlate: Window 'Message Log' being destroyed
+[2023.04.12-13.43.46:232][130]LogSlate: Window 'Message Log' being destroyed
+[2023.04.12-13.46.08:888][583]Candidate modules for hot reload:
+[2023.04.12-13.46.08:888][583]  SEM2
+[2023.04.12-13.46.08:889][583]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,1530 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.46.08:896][583]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:46:13
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:   [2/4] UE4Editor-SEM2-1530.lib
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-1530.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-1530.exp
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:   [3/4] UE4Editor-SEM2-1530.dll
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-1530.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-1530.suppressed.exp
+[2023.04.12-13.46.13:152][647]CompilerResultsLog:   [4/4] SEM2Editor.target
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Total time in Parallel executor: 2.92 seconds
+[2023.04.12-13.46.13:152][647]CompilerResultsLog: Total execution time: 4.10 seconds
+[2023.04.12-13.46.13:152][647]LogMainFrame: MainFrame: Module compiling took 4.363 seconds
+[2023.04.12-13.46.13:228][647]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0011 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.46.13:232][647]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.46.13:314][647]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0098 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.46.13:320][647]Display: HotReload took  4.5s.
+[2023.04.12-13.46.16:284][691]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.46.16:293][691]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.46.16:293][691]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:46:16)
+[2023.04.12-13.46.16:293][691]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.46.16:303][691]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009583s)
+[2023.04.12-13.46.16:305][691]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.46.16:306][691]LogPlayLevel: PIE: World Init took: (0.002880s)
+[2023.04.12-13.46.16:306][691]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.013031s)
+[2023.04.12-13.46.16:410][691]LogUObjectHash: Compacting FUObjectHashTables data took   7.13ms
+[2023.04.12-13.46.16:410][691]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.46.16:410][691]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.46.16:410][691]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.46.16:411][691]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.46.16:411][691]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.46.16:414][691]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.46.16:414][691]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.46.16:497][691]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.46.16:498][691]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.46.16:498][691]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.46.16:498][691]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.46.16:498][691]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.46.16:498][691]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.46.16:498][691]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.46.16:514][691]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.46.16:514][691]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.46.16:514][691]LogInit: FAudioDevice initialized.
+[2023.04.12-13.46.16:514][691]LogAudio: Display: Audio Device (ID: 7) registered with world 'CoinCollection'.
+[2023.04.12-13.46.16:523][691]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.46.16:525][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.46.16
+[2023.04.12-13.46.16:525][691]LogWorld: Bringing up level for play took: 0.000727
+[2023.04.12-13.46.16:526][691]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2023.04.12-13.46.16:529][691]PIE: Server logged in
+[2023.04.12-13.46.16:529][691]PIE: Play in editor total start time 0.238 seconds.
+[2023.04.12-13.46.23:279][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.46.23:280][815]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.46.23:280][815]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.46.23:281][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.46.23:384][815]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.46.23:409][815]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.46.23:421][815]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-13.46.23:422][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.46.23:423][815]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.46.23:443][815]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.46.23:466][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.04.12-13.46.23:504][816]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.12-13.46.42:307][908]Candidate modules for hot reload:
+[2023.04.12-13.46.42:308][908]  SEM2
+[2023.04.12-13.46.42:308][908]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,5228 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.46.42:315][908]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.46.46:690][974]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:46:46
+[2023.04.12-13.46.46:690][974]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.46.46:691][974]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.46.46:691][974]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.46.46:691][974]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:   [2/4] UE4Editor-SEM2-5228.lib
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5228.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5228.exp
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:   [3/4] UE4Editor-SEM2-5228.dll
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5228.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5228.suppressed.exp
+[2023.04.12-13.46.46:691][974]CompilerResultsLog:   [4/4] SEM2Editor.target
+[2023.04.12-13.46.46:691][974]CompilerResultsLog: Total time in Parallel executor: 2.97 seconds
+[2023.04.12-13.46.46:691][974]CompilerResultsLog: Total execution time: 4.17 seconds
+[2023.04.12-13.46.46:691][974]LogMainFrame: MainFrame: Module compiling took 4.489 seconds
+[2023.04.12-13.46.46:800][974]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.46.46:811][974]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.46.46:882][974]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0115 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.46.46:891][974]Display: HotReload took  4.7s.
+[2023.04.12-13.46.49:225][  9]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.46.49:235][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.46.49:235][  9]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:46:49)
+[2023.04.12-13.46.49:235][  9]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.46.49:244][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008743s)
+[2023.04.12-13.46.49:247][  9]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.46.49:247][  9]LogPlayLevel: PIE: World Init took: (0.002982s)
+[2023.04.12-13.46.49:247][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.012060s)
+[2023.04.12-13.46.49:327][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2023.04.12-13.46.49:329][  9]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.46.49:329][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.46.49:329][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.46.49:330][  9]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.46.49:330][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.46.49:332][  9]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.46.49:332][  9]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.46.49:426][  9]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.46.49:426][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.46.49:426][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.46.49:427][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.46.49:427][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.46.49:427][  9]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.46.49:427][  9]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.46.49:428][  9]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.46.49:428][  9]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.46.49:428][  9]LogInit: FAudioDevice initialized.
+[2023.04.12-13.46.49:428][  9]LogAudio: Display: Audio Device (ID: 8) registered with world 'CoinCollection'.
+[2023.04.12-13.46.49:448][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.46.49:450][  9]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.46.49
+[2023.04.12-13.46.49:450][  9]LogWorld: Bringing up level for play took: 0.000699
+[2023.04.12-13.46.49:450][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2023.04.12-13.46.49:454][  9]PIE: Server logged in
+[2023.04.12-13.46.49:454][  9]PIE: Play in editor total start time 0.221 seconds.
+[2023.04.12-13.46.55:508][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.46.55:509][125]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.46.55:509][125]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.46.55:510][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.46.55:621][125]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.46.55:648][125]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.46.55:663][125]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-13.46.55:664][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.46.55:665][125]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.46.55:684][125]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.46.55:689][125]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.04.12-13.46.55:727][126]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.12-13.57.24:398][102]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.57.24:407][102]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.57.24:407][102]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:57:24)
+[2023.04.12-13.57.24:408][102]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.57.24:418][102]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010041s)
+[2023.04.12-13.57.24:419][102]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.57.24:419][102]LogPlayLevel: PIE: World Init took: (0.001412s)
+[2023.04.12-13.57.24:419][102]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.011627s)
+[2023.04.12-13.57.24:449][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.20ms
+[2023.04.12-13.57.24:450][102]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.57.24:450][102]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.57.24:450][102]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.57.24:451][102]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.57.24:451][102]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.57.24:455][102]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.57.24:455][102]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.57.24:548][102]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.57.24:549][102]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.57.24:549][102]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.57.24:549][102]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.57.24:549][102]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.57.24:549][102]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.57.24:549][102]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.57.24:564][102]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.57.24:564][102]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.57.24:564][102]LogInit: FAudioDevice initialized.
+[2023.04.12-13.57.24:564][102]LogAudio: Display: Audio Device (ID: 9) registered with world 'CoinCollection'.
+[2023.04.12-13.57.24:573][102]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.57.24:575][102]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.57.24
+[2023.04.12-13.57.24:575][102]LogWorld: Bringing up level for play took: 0.000902
+[2023.04.12-13.57.24:575][102]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2023.04.12-13.57.24:578][102]PIE: Server logged in
+[2023.04.12-13.57.24:579][102]PIE: Play in editor total start time 0.173 seconds.
+[2023.04.12-13.57.25:576][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.57.25:576][122]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.57.25:576][122]LogWorld: UWorld::CleanupWorld for CoinCollection, bSessionEnded=true, bCleanupResources=true
+[2023.04.12-13.57.25:577][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.57.25:592][122]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.12-13.57.25:612][122]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.12-13.57.25:627][122]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.12-13.57.25:627][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.57.25:628][122]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.12-13.57.25:648][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.12-13.57.25:651][122]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.04.12-13.57.25:678][123]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.04.12-13.57.26:142][131]Candidate modules for hot reload:
+[2023.04.12-13.57.26:142][131]  SEM2
+[2023.04.12-13.57.26:142][131]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=SEM2,5420 SEM2Editor Win64 Development -Project="C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject" "C:/Users/alec/Desktop/Uni Work/Leactures/CT4102-SEM2/SEM2/SEM2.uproject"  -IgnoreJunk]
+[2023.04.12-13.57.26:152][131]Warning: Starting HotReload took  0.1s.
+[2023.04.12-13.57.30:911][265]CompilerResultsLog: New page: Compilation - 12 Apr 2023, 15:57:30
+[2023.04.12-13.57.30:911][265]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2).
+[2023.04.12-13.57.30:911][265]CompilerResultsLog: Building SEM2Editor...
+[2023.04.12-13.57.30:912][265]CompilerResultsLog: Using Visual Studio 2019 14.33.31630 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2023.04.12-13.57.30:912][265]CompilerResultsLog: Building 4 actions with 8 processes...
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:   [1/4] Coin.cpp
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:   C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.cpp(21): warning C4996: 'USceneComponent::AttachTo': This function is deprecated, please use AttachToComponent instead. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:   [2/4] UE4Editor-SEM2-5420.lib
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5420.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5420.exp
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:   [3/4] UE4Editor-SEM2-5420.dll
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:      Creating library C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5420.suppressed.lib and object C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\UE4Editor-SEM2-5420.suppressed.exp
+[2023.04.12-13.57.30:912][265]CompilerResultsLog:   [4/4] SEM2Editor.target
+[2023.04.12-13.57.30:912][265]CompilerResultsLog: Total time in Parallel executor: 3.31 seconds
+[2023.04.12-13.57.30:912][265]CompilerResultsLog: Total execution time: 4.61 seconds
+[2023.04.12-13.57.30:912][265]LogMainFrame: MainFrame: Module compiling took 4.816 seconds
+[2023.04.12-13.57.30:981][265]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SEM2' in 0.0003 seconds. Added 7 classes and 2 folders.
+[2023.04.12-13.57.30:984][265]Display: HotReload successful (3 functions remapped  0 scriptstructs remapped)
+[2023.04.12-13.57.31:066][265]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0101 seconds. Added 3608 classes and 861 folders.
+[2023.04.12-13.57.31:072][265]Display: HotReload took  5.0s.
+[2023.04.12-13.57.33:576][304]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.12-13.57.33:585][304]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.12-13.57.33:585][304]PIE: New page: PIE session: CoinCollection (12 Apr 2023, 15:57:33)
+[2023.04.12-13.57.33:585][304]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_CoinCollection
+[2023.04.12-13.57.33:592][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007598s)
+[2023.04.12-13.57.33:594][304]LogAIModule: Creating AISystem for world CoinCollection
+[2023.04.12-13.57.33:595][304]LogPlayLevel: PIE: World Init took: (0.002732s)
+[2023.04.12-13.57.33:595][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/CoinCollection.CoinCollection to /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection (0.010682s)
+[2023.04.12-13.57.33:673][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2023.04.12-13.57.33:674][304]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.12-13.57.33:674][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.12-13.57.33:674][304]LogAudio: Display: Using built-in audio occlusion.
+[2023.04.12-13.57.33:674][304]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.12-13.57.33:677][304]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.12-13.57.33:677][304]LogAudioMixer: Display: 1: FrontRight
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek(R) Audio)
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.12-13.57.33:761][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.12-13.57.33:761][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.12-13.57.33:777][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.12-13.57.33:777][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.12-13.57.33:777][304]LogInit: FAudioDevice initialized.
+[2023.04.12-13.57.33:777][304]LogAudio: Display: Audio Device (ID: 10) registered with world 'CoinCollection'.
+[2023.04.12-13.57.33:784][304]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2023.04.12-13.57.33:786][304]LogWorld: Bringing World /Game/Maps/UEDPIE_0_CoinCollection.CoinCollection up for play (max tick rate 0) at 2023.04.12-14.57.33
+[2023.04.12-13.57.33:786][304]LogWorld: Bringing up level for play took: 0.000675
+[2023.04.12-13.57.33:786][304]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2023.04.12-13.57.33:789][304]PIE: Server logged in
+[2023.04.12-13.57.33:789][304]PIE: Play in editor total start time 0.207 seconds.

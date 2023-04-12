@@ -32,34 +32,8 @@ public:
 	UPROPERTY(EditAnywhere)
 	TSubclassOf<ACoin> MyCoinClass = ACoin::StaticClass();
 
-	
-	//virtual class UWorld* GetWorld() const { return World; };
-
-	//UPROPERTY(Transient)
-	//	class UWorld* World;
-
-	////The text for using the item. Etc (Equip, Eat)
-	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-	//	FText UseActionText;
-
-	////The mesh to display for this item
-	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-	//	class UStaticMesh* MeshImage;
-
-	////The thumbnail for this item
-	//UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Item")
-	//	class UTexture2D* Thumbnail;
-
-	////The display name for this item in the inventory
-	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item")
-	//	FText ItemDisplayName;
-
-	////An optional description for the item
-	//UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category = "Item", meta = (MultiLine = true))
-	//	FText ItemDescription;
-
-	////The inventory that owns this item
-	//class UInventoryComponent* OwningInventory;
+	UPROPERTY()
+	int NumberOfCoins;
 
 protected:
 	// Called when the game starts or when spawned
