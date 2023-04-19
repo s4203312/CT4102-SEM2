@@ -207,10 +207,11 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass = { "MyCoinClass", nullptr, (EPropertyFlags)0x0014000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACoin, MyCoinClass), Z_Construct_UClass_ACoin_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass_MetaData)) };
 #if WITH_METADATA
 	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins_MetaData[] = {
+		{ "Category", "Coin" },
 		{ "ModuleRelativePath", "Coin.h" },
 	};
 #endif
-	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins = { "NumberOfCoins", nullptr, (EPropertyFlags)0x0010000000000000, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACoin, NumberOfCoins), METADATA_PARAMS(Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins_MetaData)) };
+	const UE4CodeGen_Private::FUnsizedIntPropertyParams Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins = { "NumberOfCoins", nullptr, (EPropertyFlags)0x0010000000000005, UE4CodeGen_Private::EPropertyGenFlags::Int, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACoin, NumberOfCoins), METADATA_PARAMS(Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACoin_Statics::NewProp_NumberOfCoins_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACoin_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_Root,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_Mesh,
@@ -245,7 +246,7 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACoin, 569607005);
+	IMPLEMENT_CLASS(ACoin, 3455315281);
 	template<> SEM2_API UClass* StaticClass<ACoin>()
 	{
 		return ACoin::StaticClass();

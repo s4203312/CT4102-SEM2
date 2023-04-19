@@ -43,8 +43,9 @@ void ACoin::BeginPlay()
 //Checking if anthing has collided with it
 void ACoin::OnComponentOverlap(UPrimitiveComponent* OverlappedComp, AActor* OtherActor, UPrimitiveComponent* OtherComp, int32 OtherBodyIndex, bool bFromSweep, const FHitResult& SweepResult) 
 { 
-	ACoin::Destroy();
 	NumberOfCoins += 1;
+	ACoin::Destroy();
+	
 	GEngine->AddOnScreenDebugMessage(-1, 15.0f, FColor::Black, FString("Coins: %d", NumberOfCoins));
 	
 	//UInventoryComponent::Coin = OtherComp;

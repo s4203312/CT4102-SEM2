@@ -32,7 +32,7 @@ public:
 	UPROPERTY(EditAnywhere)
 	TSubclassOf<ACoin> MyCoinClass = ACoin::StaticClass();
 
-	UPROPERTY()
+	UPROPERTY(EditAnywhere, BlueprintReadWrite)
 	int NumberOfCoins;
 
 protected:
