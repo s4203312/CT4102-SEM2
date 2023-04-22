@@ -32,9 +32,6 @@ public:
 	UPROPERTY(EditAnywhere)
 	TSubclassOf<ACoin> MyCoinClass = ACoin::StaticClass();
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	int NumberOfCoins;
-
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
