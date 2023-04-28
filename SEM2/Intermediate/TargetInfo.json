@@ -2,12 +2,12 @@
 	"Targets": [
 		{
 			"Name": "SEM2",
-			"Path": "C:\\Users\\alec\\Desktop\\Uni Work\\Leactures\\CT4102-SEM2\\SEM2\\Source\\SEM2.Target.cs",
+			"Path": "C:\\Users\\s4203312\\Documents\\GitHub\\CT4102-SEM2\\SEM2\\Source\\SEM2.Target.cs",
 			"Type": "Game"
 		},
 		{
 			"Name": "SEM2Editor",
-			"Path": "C:\\Users\\alec\\Desktop\\Uni Work\\Leactures\\CT4102-SEM2\\SEM2\\Source\\SEM2Editor.Target.cs",
+			"Path": "C:\\Users\\s4203312\\Documents\\GitHub\\CT4102-SEM2\\SEM2\\Source\\SEM2Editor.Target.cs",
 			"Type": "Editor"
 		}
 	]

@@ -7,6 +7,7 @@ CoinManager::CoinManager()
 {
 }
 
-CoinManager::~CoinManager()
+void CoinManager::UpdateCoins() 
 {
+	NumberCoins++;
 }

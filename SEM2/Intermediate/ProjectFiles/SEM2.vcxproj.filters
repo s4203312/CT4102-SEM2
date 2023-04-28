@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\SEM2.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E48DD032-7E37-4056-85BF-86FA56BD646B}</UniqueIdentifier>
+      <UniqueIdentifier>{9223CD12-15A9-40DD-A86D-50CF714C0726}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\SEM2.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{08EDE5BF-D47E-4E3B-9181-83BE8C4A690E}</UniqueIdentifier>
+      <UniqueIdentifier>{3FDA22A8-082C-4F6E-B0FB-642B56C15E87}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -27,7 +27,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\SEM2">
-      <UniqueIdentifier>{969F8AF0-84E2-42A4-B848-357FCEC9E1D4}</UniqueIdentifier>
+      <UniqueIdentifier>{13035B56-8569-433F-8C27-5ADF63092A06}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\SEM2\Coin.cpp">
       <Filter>Source\SEM2</Filter>

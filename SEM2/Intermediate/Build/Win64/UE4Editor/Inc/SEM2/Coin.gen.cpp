@@ -24,6 +24,7 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 	ENGINE_API UClass* Z_Construct_UClass_UStaticMeshComponent_NoRegister();
 	ENGINE_API UClass* Z_Construct_UClass_UBoxComponent_NoRegister();
 	COREUOBJECT_API UClass* Z_Construct_UClass_UClass();
+	SEM2_API UClass* Z_Construct_UClass_ACoinManager2_NoRegister();
 // End Cross Module References
 	DEFINE_FUNCTION(ACoin::execOnComponentOverlap)
 	{
@@ -154,6 +155,10 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_MyCoinClass_MetaData[];
 #endif
 		static const UE4CodeGen_Private::FClassPropertyParams NewProp_MyCoinClass;
+#if WITH_METADATA
+		static const UE4CodeGen_Private::FMetaDataPairParam NewProp_manager_MetaData[];
+#endif
+		static const UE4CodeGen_Private::FObjectPropertyParams NewProp_manager;
 		static const UE4CodeGen_Private::FPropertyParamsBase* const PropPointers[];
 		static const FCppClassTypeInfoStatic StaticCppClassTypeInfo;
 		static const UE4CodeGen_Private::FClassParams ClassParams;
@@ -201,11 +206,19 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 	};
 #endif
 	const UE4CodeGen_Private::FClassPropertyParams Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass = { "MyCoinClass", nullptr, (EPropertyFlags)0x0014000000000001, UE4CodeGen_Private::EPropertyGenFlags::Class, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACoin, MyCoinClass), Z_Construct_UClass_ACoin_NoRegister, Z_Construct_UClass_UClass, METADATA_PARAMS(Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass_MetaData)) };
+#if WITH_METADATA
+	const UE4CodeGen_Private::FMetaDataPairParam Z_Construct_UClass_ACoin_Statics::NewProp_manager_MetaData[] = {
+		{ "Category", "Coin" },
+		{ "ModuleRelativePath", "Coin.h" },
+	};
+#endif
+	const UE4CodeGen_Private::FObjectPropertyParams Z_Construct_UClass_ACoin_Statics::NewProp_manager = { "manager", nullptr, (EPropertyFlags)0x0010000000000001, UE4CodeGen_Private::EPropertyGenFlags::Object, RF_Public|RF_Transient|RF_MarkAsNative, 1, STRUCT_OFFSET(ACoin, manager), Z_Construct_UClass_ACoinManager2_NoRegister, METADATA_PARAMS(Z_Construct_UClass_ACoin_Statics::NewProp_manager_MetaData, UE_ARRAY_COUNT(Z_Construct_UClass_ACoin_Statics::NewProp_manager_MetaData)) };
 	const UE4CodeGen_Private::FPropertyParamsBase* const Z_Construct_UClass_ACoin_Statics::PropPointers[] = {
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_Root,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_Mesh,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_Collider,
 		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_MyCoinClass,
+		(const UE4CodeGen_Private::FPropertyParamsBase*)&Z_Construct_UClass_ACoin_Statics::NewProp_manager,
 	};
 	const FCppClassTypeInfoStatic Z_Construct_UClass_ACoin_Statics::StaticCppClassTypeInfo = {
 		TCppClassTypeTraits<ACoin>::IsAbstract,
@@ -234,7 +247,7 @@ void EmptyLinkFunctionForGeneratedCodeCoin() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(ACoin, 1487801666);
+	IMPLEMENT_CLASS(ACoin, 4176648258);
 	template<> SEM2_API UClass* StaticClass<ACoin>()
 	{
 		return ACoin::StaticClass();

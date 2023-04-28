@@ -230,8 +230,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2"
-/I "C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source"
+/I C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2
+/I C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -255,18 +255,18 @@
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\RenderDebug\public
 /I ThirdParty\PhysX3\APEX_1.4\shared\general\PairFilter\include
 /I ThirdParty\PhysX3\APEX_1.4\shared\internal\include
-/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\INCLUDE"
+/I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE"
 /I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt"
-/FI"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Item.cpp"
-/FI"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h"
-/Fo"C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Item.cpp.obj"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.20348.0\winrt"
+/FI"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\SEM2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source\SEM2\Item.cpp"
+/FI"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h"
+/Fo"C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Item.cpp.obj"
 /TP
 /GR-
 /W4

@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeSEM2_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x55D65152,
+				0x0F854642,
 				0x09220C80,
 				METADATA_PARAMS(nullptr, 0)
 			};

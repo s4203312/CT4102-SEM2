@@ -3,6 +3,7 @@
 
 #include "Coin.h"
 #include "CoinManager2.h"
+
 #include "Components/StaticMeshComponent.h"
 #include "InventoryComponent.h"
 
@@ -40,5 +41,5 @@ void ACoin::OnComponentOverlap(UPrimitiveComponent* OverlappedComp, AActor* Othe
 { 
 	//UpdateCoins();
 	ACoin::Destroy();
-	
+	manager->UpdateCoins();
 }

@@ -3,6 +3,8 @@
 #pragma once
 
 #include "CoreMinimal.h"
+#include "CoinManager2.h"
+
 #include "GameFramework/Actor.h"
 #include "CoinManager2.generated.h"
 
@@ -16,7 +18,7 @@ public:
 	ACoinManager2();
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-		int NumberOfCoins;
+	int NumberOfCoins;
 
 	void UpdateCoins();
 

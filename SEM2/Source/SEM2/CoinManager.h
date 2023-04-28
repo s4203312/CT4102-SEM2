@@ -11,5 +11,10 @@ class SEM2_API CoinManager
 {
 public:
 	CoinManager();
-	~CoinManager();
+	
+	UPROPERTY(EditAnywhere)
+	int NumberCoins;
+
+	UFUNCTION(BlueprintCallable)
+	void UpdateCoins();
 };
