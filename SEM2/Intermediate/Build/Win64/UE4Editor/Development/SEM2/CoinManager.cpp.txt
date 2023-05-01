@@ -1,2 +1,2 @@
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source\SEM2\CoinManager.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\CoinManager.h

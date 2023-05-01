@@ -1,11 +1,11 @@
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source\SEM2\Coin.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Development\SEM2\Definitions.SEM2.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\Coin.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BoxComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/ShapeComponent.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ShapeComponent.generated.h
 C:\Program Files\Epic Games\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BoxComponent.generated.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\Coin.generated.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source\SEM2\CoinManager2.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\CoinManager2.generated.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Source\SEM2\InventoryComponent.h
-C:\Users\s4203312\Documents\GitHub\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\InventoryComponent.generated.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\Coin.generated.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\CoinManager2.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\CoinManager2.generated.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Source\SEM2\InventoryComponent.h
+C:\Users\alec\Desktop\Uni Work\Leactures\CT4102-SEM2\SEM2\Intermediate\Build\Win64\UE4Editor\Inc\SEM2\InventoryComponent.generated.h
